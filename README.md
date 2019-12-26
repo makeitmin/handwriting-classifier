@@ -1,5 +1,5 @@
 # 2019-2_DeepLearning-Project
-This is Handwriting Distinction Project using CNN(Convolution Neural Network). This model uses multi-class-classification and distincts each handwriting of 10 people. Final accuracy is 85.83%.
+This is Handwriting Distinction Project using CNN(Convolution Neural Network). The project was conducted at deep-learning class in Korea Polytechnic University. The model in this project uses multi-class-classification and distincts each handwriting of 10 people. Final accuracy is 85.83%. The project will update continuously.
 
 ## Prerequsites
 - Dataset
