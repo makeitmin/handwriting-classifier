@@ -10,3 +10,8 @@ Handwriting Distinction Project using CNN(Convolution Neural Network)
 - Pillow(PIL) 4.1.1
 
 ## Run Files
+1. first_preprocessing.py
+2. second_preprocessing.py
+3. third_preprocessing.py
+4. preprocessing_shuffle.py
+5. preprocessing_csv
