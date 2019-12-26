@@ -15,5 +15,4 @@ Handwriting Distinction Project using CNN(Convolution Neural Network)
 3. third_preprocessing.py : use contour to make handwriting clear
 4. preprocessing_division.py : divide second-cropped images by folders(train, valid, test)
 5. preprocessing_csv.py : make second_cropped images 1 dimansional vector and put them into csv file
-   -> handwritten_train.csv / handwritten_valid.csv / handwritten_test.csv
 6. model.py : CNN model for learning
