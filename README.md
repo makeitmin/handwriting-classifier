@@ -1,4 +1,4 @@
-# 2019-2-_DeepLearning-Project
+# 2019-2_DeepLearning-Project
 Handwriting Distinction Project using CNN(Convolution Neural Network)
 
 ## Prerequsites
@@ -9,9 +9,12 @@ Handwriting Distinction Project using CNN(Convolution Neural Network)
 - Pandas 0.20.3
 - Pillow(PIL) 4.1.1
 
+## Dataset images
+
+
 ## Run Files
 1. first_preprocessing.py
 2. second_preprocessing.py
 3. third_preprocessing.py
-4. preprocessing_shuffle.py
-5. preprocessing_csv
+4. preprocessing_division.py
+5. preprocessing_csv.py
