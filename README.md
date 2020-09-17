@@ -1,8 +1,8 @@
-# 2019-2_DeepLearning-Project
-This is Handwriting Distinction Project using CNN(Convolution Neural Network). The project was conducted at deep-learning class in Korea Polytechnic University. The model in this project uses multi-class-classification and distincts each handwriting of 10 people. Final accuracy is 85.83%. The project will be updated continuously.
+# Handwriting_Classifier
+This is Handwriting Classification Project using CNN(Convolution Neural Network). The project was conducted at DL class in Korea Polytechnic University. The model in this project uses multi class classification and distincts handwritings of 10 people. Final accuracy is 85.83%. The project will be updated continuously.
 
 ## Prerequsites
-- Dataset
+- Dataset(.csv files)
 - Anaconda3 4.4.0 (Python 3.6)
 - Tensorflow 1.15.0
 - OpenCV 4.1.1.26
