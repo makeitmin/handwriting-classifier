@@ -1,4 +1,4 @@
-# Handwriting_Classifier
+# handwriting-classifier
 This is Handwriting Classification Project using CNN(Convolution Neural Network). The project was conducted at DL class. The model in this project uses multi class classification and distincts handwritings of 10 people. Final accuracy is 85.83%. The project will be updated continuously.
 
 ## Prerequsites
